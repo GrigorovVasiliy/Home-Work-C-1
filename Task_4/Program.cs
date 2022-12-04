@@ -19,7 +19,6 @@ if(a == b || a == c || b == c)
     Console.WriteLine("Введите второе число: ");
     c = Convert.ToInt32(Console.ReadLine());
 }
-
 if (a > b)
     {
         max = a;
