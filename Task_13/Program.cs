@@ -1,13 +1,14 @@
 ﻿// Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 Console.Clear();
-Console.Write("Веедите трехзначное число: ");
+Console.Write("Веедите число: ");
 int n = Convert.ToInt32(Console.ReadLine());
+int n3 = n;
 
-   while (n >= 100)
-        {
-            n /= 10;
-        }
-
-         int n2 = n % 1;
-Console.WriteLine($"Вторая цифра числа: {n2}.");
-    
+if (n < 100)
+    Console.WriteLine($"Число имеет меньше 3-х цифр");
+else 
+{
+    while (n3 > 999) 
+    n3 = n3 / 10;
+    Console.WriteLine($"Третья цифра числа: { n3 % 10}.");
+}
