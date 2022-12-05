@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Work C#\\HW\\HW_1\\Тask_10\\Тask_10.csproj",
-      "projectName": "Тask_10",
-      "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Work C#\\HW\\HW_1\\Тask_10\\Тask_10.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Work C#\\HW\\HW_1\\Task_10\\Task_10.csproj",
+      "projectName": "Task_10",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Work C#\\HW\\HW_1\\Task_10\\Task_10.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Work C#\\HW\\HW_1\\Тask_10\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Work C#\\HW\\HW_1\\Task_10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
